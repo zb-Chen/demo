@@ -1,0 +1,12 @@
+JAVA常用单词：
+private		类访问权			protected	子类访问权
+abstract		抽象			extends		继承
+interface		接口			implement	实现
+Override		重写			Overload		重载
+Interceptors	拦截器			Configuration Files	配置文件
+session		会话			commit		提交
+execute		执行			native		本地
+clone		克隆			CharSequence	有序
+Serializable	序列			comparable	比较
+application	应用			Driver		驱动
+Service		服务
